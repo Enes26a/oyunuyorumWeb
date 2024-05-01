@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oyunuyorumWebApp", "oyunuyorumWebApp\oyunuyorumWebApp.csproj", "{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriErisimKatmani", "VeriErisimKatmani\VeriErisimKatmani.csproj", "{4AD0FEB8-6355-45D1-8013-19AC0247C456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD0FEB8-6355-45D1-8013-19AC0247C456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD0FEB8-6355-45D1-8013-19AC0247C456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD0FEB8-6355-45D1-8013-19AC0247C456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD0FEB8-6355-45D1-8013-19AC0247C456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E93861-1BA2-4F40-80BB-5E6BA69F6C5C}
+	EndGlobalSection
+EndGlobal

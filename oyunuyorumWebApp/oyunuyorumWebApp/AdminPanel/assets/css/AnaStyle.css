@@ -1,0 +1,52 @@
+﻿*,h1,h2,h3,h4,h5,h6{
+    margin:0;padding:0
+
+}
+body {
+    font-family:Calibri;
+    background-image:url(d.jpg)
+}
+.ustMenu {
+    background-color: #adadad;
+    padding: 20px 10px;
+    color: white;
+}
+.ustMenu .baslik{
+    float:left;
+}
+    .ustMenu .kullanici {
+        float:right;
+        
+    }
+    .ustMenu .kullanici a {
+        color:white;
+        margin:0 20px;
+        text-decoration:none;
+    }
+.icerikTasiyici {
+}
+.yanMenu {
+    background-color: #adadad;
+    border-right: 1px solid #adadad;
+    width: 13%;
+    min-height: 800px;
+    float: right;
+}
+    .yanMenu a {
+       
+        display: block;
+        padding: 7px 30px;
+        border-bottom: 1px solid silver;
+        text-decoration: none;
+        color: dimgrey;
+    }
+        .yanMenu a:hover {
+            background-color: #282828;
+            color: white;
+        }
+    .icerik {
+        width: 81%;
+        min-height: 800px;
+        float: left;
+        padding: 20px;
+    }

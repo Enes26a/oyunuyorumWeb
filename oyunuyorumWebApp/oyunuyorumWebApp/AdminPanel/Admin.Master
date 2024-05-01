@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="oyunuyorumWebApp.AdminPanel.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>oyunuYORUM Admin Panel</title>
+    <link href="assets/css/AnaStyle.css" rel="stylesheet" />
+    <link href="assets/css/FormStyle.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="ustMenu">
+            <div class="baslik">
+                <h3>oyunuYORUM Admin Panel</h3>
+            </div>
+            <div class="kullanici">
+                <asp:Label ID="lbl_kullanici" runat="server">oyunuYORUM</asp:Label>
+                <asp:LinkButton ID="lbtn_cikis" runat="server" OnClick="lbtn_cikis_Click">Güvenli Çıkış</asp:LinkButton>
+            </div>
+            <div style="clear: both"></div>
+        </div>
+        <div class="icerikTasiyici">
+            <div class="yanMenu">
+                <a href="Default.aspx">Yönetim Panel</a>
+                <a href="KategoriEkle.aspx">Kategori Ekle</a>
+                <a href="KategoriListele.aspx">Kategori Listele</a>
+                <a href="MakaleEkle.aspx">Makale Ekle</a>
+                <a href="MakaleListele.aspx">Makale Listele</a>
+                <a href="YoneticiEkle.aspx">Admin/Moderatör Ekle</a>
+                <a href="KullaniciListele.aspx">Kullanıcı Listele</a>
+            </div>
+            <div class="icerik">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div style="clear: both"></div>
+        </div>
+
+    </form>
+    <script src="assets/ckeditor/ckeditor.js"></script>
+    <script>
+        CKEDITOR.replace('ContentPlaceHolder1_tb_Icerik');
+    </script>
+</body>
+</html>

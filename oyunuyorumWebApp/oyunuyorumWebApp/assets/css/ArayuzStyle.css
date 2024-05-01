@@ -1,0 +1,138 @@
+﻿*,h1,h2,h3,h4,h5,h6{
+    margin:0;padding:0;
+}
+body {
+    font-family: Roboto;
+    background-image: url("d.jpg");
+}
+.tasiyici {
+    width:1200px;
+    margin:0px auto;
+    padding:10px;
+}
+.logo {
+    float: left;
+    background: url("oyunuyorum-high-resolution-logo-Photoroom.png-Photoroom.png");
+}
+.logo a{
+    color:#1f1f1f;
+    text-decoration:none;
+}
+
+.ustPanel{
+    background-color:white;
+}
+.uyepanel
+{
+   background-color:white;
+}
+    .uyepanel a {
+        color: silver;
+        border: 1px solid #c64040;
+        padding: 5px 10px;
+        border-radius: 3px;
+        text-decoration: none;
+        float: right;
+        margin-left:10px;
+    }
+        .uyepanel a:hover {
+            color: white;
+            border: 1px solid #262626;
+            background-color: #696969
+        }
+.menu {
+    background-color: silver;
+    min-height: 40px;
+}
+.menuEleman{
+    color:white;
+    text-decoration:none;
+    border:1px solid white;
+    border-radius : 7px;
+    margin-left:10px;
+}
+.menuEleman:hover{
+    text-decoration:underline;
+}
+.sagpanel {
+    width:160px;
+    float:right;
+}
+.icerik{
+    width:1000px;
+    float:left
+}
+.makale{
+    color:dimgray;
+    margin-bottom:20px;
+}
+.makale .resim{
+
+}
+    .makale .resim img{
+        width:100%;
+    }
+    .makale .baslik {
+        padding: 10px 0px;
+    }
+    .makale .baslik a {
+        color: #c64040;
+        text-decoration:none;
+    }
+    .makale .bilgi {
+        border-top: 1px solid silver;
+        border-bottom: 1px solid silver;
+        padding:10px 0px;
+    }
+    .makale .ozet {
+        padding: 10px 0px;
+    }
+    .makale .devami {
+        color: #c64040;
+    }
+.girisKutu {
+    width: 500px;
+    margin: 100px auto;
+    border: 1px solid silver;
+    background-color: rgb(255, 255, 255)
+}
+.girisKutu .baslik{
+    padding:20px;
+    text-align:center;
+}
+.girisForm{
+    padding:20px;
+    border-top:1px solid silver;
+}
+.formMetinKutu {
+    padding: 15px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-top:10px;
+    font-size:13pt;
+}
+.formGirisButon {
+    padding: 15px 30px;
+    background-color: #808080;
+    color: white;
+    font-size: 12pt;
+    font-weight: 900;
+    font-family: Calibri;
+    text-decoration:none;
+    display:block;
+    text-align:center;
+}
+.yorumPanel{
+    padding-bottom:100px;
+}
+.formYorumButon {
+    padding: 15px 30px;
+    background-color: #808080;
+    color: white;
+    font-size: 12pt;
+    font-weight: 900;
+    font-family: Calibri;
+    text-decoration: none;
+    text-align: center;
+}
+

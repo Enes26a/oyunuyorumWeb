@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\oyunuyorumWebApp\VeriErisimKatmani\bin\Debug\VeriErisimKatmani.exe.config
+C:\Users\Administrator\source\repos\oyunuyorumWebApp\VeriErisimKatmani\bin\Debug\VeriErisimKatmani.exe
+C:\Users\Administrator\source\repos\oyunuyorumWebApp\VeriErisimKatmani\bin\Debug\VeriErisimKatmani.pdb
+C:\Users\Administrator\source\repos\oyunuyorumWebApp\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\oyunuyorumWebApp\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\oyunuyorumWebApp\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.exe
+C:\Users\Administrator\source\repos\oyunuyorumWebApp\VeriErisimKatmani\obj\Debug\VeriErisimKatmani.pdb
