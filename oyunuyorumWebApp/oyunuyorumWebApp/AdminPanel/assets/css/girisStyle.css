@@ -1,22 +1,27 @@
 ﻿body {
-    background-color:#353535;
-    font-family:Calibri;
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #2c3e50;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 .tasiyici {
-    width: 400px;
-    min-height: 350px;
-    background-color: whitesmoke;
-    margin: 220px auto 0 auto;
-    padding: 15px;
-    border: 1px whitesmoke solid;
-    border-radius: 7px;
+    text-align: center;
 }
-.baslik{
-    text-align:center;
-    border-bottom:2px solid #c45a5a;
+.baslik {
+    font-size: 3em;
+    margin-bottom: 30px;
 }
-.icerik{
-    padding:15px 0;
+}
+.icerik {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .satir{
     padding:7px 0;
@@ -43,15 +48,17 @@
     }
 .girisbutton {
     width: 100%;
-    padding: 10px 0;
-    background-color: #c45a5a;
-    color: white;
-    border: 1px solid #c45a5a;
-    border-radius: 7px;
-    font-size: 12pt;
-    font-weight: 900;
-    font-family: Calibri;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
+    .girisbutton:hover {
+        background-color: #2980b9;
+    }
 .basarisizpanel {
     background-color: #ff9494;
     color: white;

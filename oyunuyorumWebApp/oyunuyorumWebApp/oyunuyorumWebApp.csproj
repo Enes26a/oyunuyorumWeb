@@ -394,7 +394,6 @@
     <Content Include="AdminPanel\UyeDuzenle.aspx" />
     <Content Include="AdminPanel\YoneticiEkle.aspx" />
     <Content Include="assets\css\ArayuzStyle.css" />
-    <Content Include="assets\css\oyunuyorum-high-resolution-logo-Photoroom.png-Photoroom.png" />
     <Content Include="assets\reklamGorselleri\dedicated\120x600.gif" />
     <Content Include="assets\reklamGorselleri\dedicated\160x600.gif" />
     <Content Include="assets\reklamGorselleri\dedicated\250x250.gif" />
@@ -403,6 +402,7 @@
     <Content Include="assets\reklamGorselleri\dedicated\468x60.gif" />
     <Content Include="assets\reklamGorselleri\dedicated\728x90.gif" />
     <Content Include="assets\css\d.jpg" />
+    <Content Include="assets\logo.png" />
     <Content Include="Resimler\MakaleResimleri\11745b83-5931-4853-bf39-76f35f7558b7.jpg" />
     <Content Include="Resimler\MakaleResimleri\c4573111-e16d-4cf2-891f-3fc101b53518.jpg" />
     <Content Include="Default.aspx" />

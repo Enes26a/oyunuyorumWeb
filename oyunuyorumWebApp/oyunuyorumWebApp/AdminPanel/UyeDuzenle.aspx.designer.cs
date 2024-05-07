@@ -42,13 +42,13 @@ namespace oyunuyorumWebApp.AdminPanel
         protected global::System.Web.UI.WebControls.Panel pnl_basarili;
 
         /// <summary>
-        /// tb_isim control.
+        /// tb_ad control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tb_isim;
+        protected global::System.Web.UI.WebControls.TextBox tb_ad;
 
         /// <summary>
         /// tb_soyisim control.

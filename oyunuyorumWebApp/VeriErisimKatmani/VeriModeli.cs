@@ -743,6 +743,7 @@ namespace VeriErisimKatmani
                 baglanti.Close();
             }
         }
+
         #endregion,
 
         #region Yorum Metotları

@@ -15,7 +15,7 @@
         </asp:Panel>
         <div class="satir">
             <label class="formetiket">Adı</label>
-            <asp:TextBox ID="tb_isim" runat="server" CssClass="metinkutu"></asp:TextBox>
+            <asp:TextBox ID="tb_ad" runat="server" CssClass="metinkutu"></asp:TextBox>
         </div>
         <div class="satir">
             <label class="formetiket">Soyadı</label>

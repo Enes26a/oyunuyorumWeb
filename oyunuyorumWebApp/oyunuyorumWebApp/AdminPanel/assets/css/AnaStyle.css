@@ -1,15 +1,24 @@
-﻿*,h1,h2,h3,h4,h5,h6{
-    margin:0;padding:0
-
+﻿*, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    margin-bottom: 20px;
 }
 body {
-    font-family:Calibri;
-    background-image:url(d.jpg)
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #f5f6fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
 }
 .ustMenu {
-    background-color: #adadad;
-    padding: 20px 10px;
-    color: white;
+    background-color: #333;
+    color: #fff;
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
 }
 .ustMenu .baslik{
     float:left;

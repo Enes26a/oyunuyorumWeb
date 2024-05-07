@@ -16,13 +16,15 @@
     <form id="form1" runat="server">
         <div class="ustPanel">
             <div class="tasiyici">
-                <h1 class="logo"><a href="Default.aspx">oyunuYORUM </a></h1>
+                <div class="logo">
+                    <img src="assets\logo.png" alt="logo" />
+                </div>
                 <asp:Panel ID="pnl_girisyok" runat="server" class="uyepanel">
                     <a href="UyeGiris.aspx">Giriş Yap</a>
                     <a href="UyeOl.aspx">Üye Ol</a>
                 </asp:Panel>
                 <asp:Panel ID="pnl_girisvar" runat="server" class="uyepanel">
-                    <a href="">Oyuncu | 
+                    <a href="Default.aspx">Oyuncu | 
                         <asp:Literal ID="ltrl_uye" runat="server"></asp:Literal></a>
                     <a href="UyeCiki.aspx">Çıkış Yap</a>
                 </asp:Panel>

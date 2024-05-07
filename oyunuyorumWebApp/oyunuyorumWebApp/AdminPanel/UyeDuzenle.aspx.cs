@@ -21,7 +21,7 @@ namespace oyunuyorumWebApp.AdminPanel
                 {
                     int id = Convert.ToInt32(Request.QueryString["ID"]);
                     Uye u = dm.UyeGetir(id);
-                    tb_isim.Text = u.Isim;
+                    tb_ad.Text = u.Isim;
                     tb_soyisim.Text = u.Soyisim;
                     tb_kadi.Text = u.KullaniciAdi;
                     tb_email.Text = u.Email;
@@ -39,7 +39,7 @@ namespace oyunuyorumWebApp.AdminPanel
         {
             int id = Convert.ToInt32(Request.QueryString["ID"]);
             Uye u = dm.UyeGetir(id);
-            u.Isim = tb_isim.Text;
+            u.Isim = tb_ad.Text;
             u.Soyisim = tb_soyisim.Text;
             u.Sifre = tb_sifre.Text;
             u.Email = tb_email.Text;

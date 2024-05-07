@@ -3,52 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AD0FEB8-6355-45D1-8013-19AC0247C456}|VeriErisimKatmani\\VeriErisimKatmani.csproj|c:\\users\\administrator\\source\\repos\\oyunuyorumwebapp\\verierisimkatmani\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AD0FEB8-6355-45D1-8013-19AC0247C456}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\makaleicerik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\makaleicerik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|c:\\users\\administrator\\source\\repos\\oyunuyorumwebapp\\oyunuyorumwebapp\\adminpanel\\makaleekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\makaleekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\admingiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\admingiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\assets\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\assets\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\assets\\css\\arayuzstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|c:\\users\\administrator\\source\\repos\\oyunuyorumwebapp\\oyunuyorumwebapp\\assets\\css\\arayuzstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\assets\\css\\arayuzstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\assets\\css\\anastyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\assets\\css\\anastyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\kategoriduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\kategoriduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\uyeduzenle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\uyeduzenle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\uyeduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\uyeduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\assets\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\assets\\css\\formstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\admingiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\admingiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|c:\\users\\administrator\\source\\repos\\oyunuyorumwebapp\\oyunuyorumwebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\uyeduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\uyeduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\kategoriekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\kategoriekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\admingiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\admingiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\uyecikis.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\uyecikis.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD0FEB8-6355-45D1-8013-19AC0247C456}|VeriErisimKatmani\\VeriErisimKatmani.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\verierisimkatmani\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD0FEB8-6355-45D1-8013-19AC0247C456}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\assets\\css\\anastyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\assets\\css\\anastyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\makaleekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\makaleekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\assets\\css\\girisstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\assets\\css\\girisstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\uyecikis.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\uyecikis.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\makaleduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\makaleduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\makaleicerik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\makaleicerik.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\kategoriduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\kategoriduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\makaleicerik.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,28 +107,12 @@
       "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\yoneticiekle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\uyegiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\uyegiris.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\uyecikis.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\uyecikis.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\uyegiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\uyegiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\uyecikis.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\uyecikis.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\uyeol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -119,10 +139,6 @@
       "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\uyeol.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\admingiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\admingiris.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AD0FEB8-6355-45D1-8013-19AC0247C456}|VeriErisimKatmani\\VeriErisimKatmani.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\verierisimkatmani\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AD0FEB8-6355-45D1-8013-19AC0247C456}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -135,20 +151,8 @@
       "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\makaleduzenle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\makaleduzenle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\makaleduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\makaleduzenle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\adminpanel\\kategoriekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|solutionrelative:oyunuyorumwebapp\\adminpanel\\kategoriekle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F31CF4AF-ACE8-4B57-9A28-4CA73B76B99B}|oyunuyorumWebApp\\oyunuyorumWebApp.csproj|C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumwebapp\\assets\\css\\d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -193,12 +197,114 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 193,
-          "SelectedChildIndex": 15,
+          "DockedWidth": 196,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 0,
+              "Title": "ArayuzStyle.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\assets\\css\\ArayuzStyle.css",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\assets\\css\\ArayuzStyle.css",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\assets\\css\\ArayuzStyle.css",
+              "RelativeToolTip": "oyunuyorumWebApp\\assets\\css\\ArayuzStyle.css",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-29T18:59:56.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\Default.aspx",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\Default.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\Default.aspx",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T18:58:26.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminGiris.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T18:58:11.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormStyle.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\FormStyle.css",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\FormStyle.css",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\FormStyle.css",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\FormStyle.css",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-29T19:31:45.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UyeDuzenle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx.cs",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx.cs",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:33:23.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminGiris.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx.cs",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx.cs",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:58:18.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UyeDuzenle.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-30T16:32:36.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MasterPage.Master",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\MasterPage.Master",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MasterPage.Master",
+              "RelativeToolTip": "oyunuyorumWebApp\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T18:57:39.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UyeCikis.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeCikis.aspx.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\UyeCikis.aspx.cs",
@@ -210,116 +316,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UyeCikis.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeCikis.aspx",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\UyeCikis.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeCikis.aspx",
-              "RelativeToolTip": "oyunuyorumWebApp\\UyeCikis.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-01T09:42:55.018Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UyeOl.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeOl.aspx.designer.cs",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\UyeOl.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeOl.aspx.designer.cs",
-              "RelativeToolTip": "oyunuyorumWebApp\\UyeOl.aspx.designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "VeriModeli.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\VeriErisimKatmani\\VeriModeli.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\VeriModeli.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\VeriErisimKatmani\\VeriModeli.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\VeriModeli.cs",
+              "ViewState": "AQIAAHQCAAAAAAAAAADwv44CAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T09:16:44.571Z"
+              "WhenOpened": "2024-04-30T14:27:42.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Web.Release.config",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.Release.config",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\Web.Release.config",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.Release.config",
-              "RelativeToolTip": "oyunuyorumWebApp\\Web.Release.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-01T07:51:11.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Default.aspx",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\Default.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Default.aspx",
-              "RelativeToolTip": "oyunuyorumWebApp\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-29T18:54:29.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MakaleIcerik.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MakaleIcerik.aspx",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\MakaleIcerik.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MakaleIcerik.aspx",
-              "RelativeToolTip": "oyunuyorumWebApp\\MakaleIcerik.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-29T18:57:26.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArayuzStyle.css",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\assets\\css\\ArayuzStyle.css",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\assets\\css\\ArayuzStyle.css",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\assets\\css\\ArayuzStyle.css",
-              "RelativeToolTip": "oyunuyorumWebApp\\assets\\css\\ArayuzStyle.css",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAuwGUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-29T18:59:56.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Web.Debug.config",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.Debug.config",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\Web.Debug.config",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.Debug.config",
-              "RelativeToolTip": "oyunuyorumWebApp\\Web.Debug.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-01T07:51:08.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.config",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\Web.config",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.config",
-              "RelativeToolTip": "oyunuyorumWebApp\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-01T07:51:03.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\Default.aspx",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\Default.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\Default.aspx",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-29T18:58:26.303Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 7,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Default.aspx.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\Default.aspx.cs",
@@ -332,6 +341,115 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "AnaStyle.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\AnaStyle.css",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\AnaStyle.css",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\AnaStyle.css",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\AnaStyle.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-29T19:31:46.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "girisStyle.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\girisStyle.css",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\girisStyle.css",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\girisStyle.css",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\girisStyle.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T13:54:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\Admin.Master",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\Admin.Master",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\Admin.Master",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\Admin.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T19:00:08.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UyeCikis.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeCikis.aspx",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\UyeCikis.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeCikis.aspx",
+              "RelativeToolTip": "oyunuyorumWebApp\\UyeCikis.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-01T09:42:55.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MakaleIcerik.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MakaleIcerik.aspx",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\MakaleIcerik.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MakaleIcerik.aspx",
+              "RelativeToolTip": "oyunuyorumWebApp\\MakaleIcerik.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T18:57:26.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.Release.config",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\Web.Release.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.Release.config",
+              "RelativeToolTip": "oyunuyorumWebApp\\Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-01T07:51:11.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UyeOl.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeOl.aspx.designer.cs",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\UyeOl.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeOl.aspx.designer.cs",
+              "RelativeToolTip": "oyunuyorumWebApp\\UyeOl.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T09:16:44.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.Debug.config",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.Debug.config",
+              "RelativeToolTip": "oyunuyorumWebApp\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-01T07:51:08.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.config",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\Web.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Web.config",
+              "RelativeToolTip": "oyunuyorumWebApp\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-01T07:51:03.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "MakaleIcerik.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MakaleIcerik.aspx.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\MakaleIcerik.aspx.cs",
@@ -343,31 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AnaStyle.css",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\AnaStyle.css",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\AnaStyle.css",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\AnaStyle.css",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\AnaStyle.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-29T19:31:46.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MasterPage.Master",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MasterPage.Master",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\MasterPage.Master",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MasterPage.Master",
-              "RelativeToolTip": "oyunuyorumWebApp\\MasterPage.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-29T18:57:39.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "MakaleDuzenle.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\MakaleDuzenle.aspx.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\MakaleDuzenle.aspx.cs",
@@ -379,20 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VeriModeli.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\VeriErisimKatmani\\VeriModeli.cs",
-              "RelativeDocumentMoniker": "VeriErisimKatmani\\VeriModeli.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\VeriErisimKatmani\\VeriModeli.cs",
-              "RelativeToolTip": "VeriErisimKatmani\\VeriModeli.cs",
-              "ViewState": "AQIAAJ8CAAAAAAAAAAAAALECAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T14:27:42.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "KategoriDuzenle.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx",
@@ -404,31 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AdminGiris.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-29T18:58:11.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AdminGiris.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx.cs",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx.cs",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\AdminGiris.aspx.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T18:58:18.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "UyeGiris.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeGiris.aspx.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\UyeGiris.aspx.cs",
@@ -440,43 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormStyle.css",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\FormStyle.css",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\FormStyle.css",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\assets\\css\\FormStyle.css",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\assets\\css\\FormStyle.css",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFwAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-29T19:31:45.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UyeDuzenle.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-30T16:32:36.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UyeDuzenle.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx.cs",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx.cs",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\UyeDuzenle.aspx.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAADwvzUAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:33:23.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 18,
               "Title": "MakaleDuzenle.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\MakaleDuzenle.aspx",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\MakaleDuzenle.aspx",
@@ -488,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "d.jpg - Bitmap [640x360, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\assets\\css\\d.jpg",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\assets\\css\\d.jpg",
@@ -499,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Makale.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\VeriErisimKatmani\\Makale.cs",
               "RelativeDocumentMoniker": "VeriErisimKatmani\\Makale.cs",
@@ -511,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Yorumlar.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\VeriErisimKatmani\\Yorumlar.cs",
               "RelativeDocumentMoniker": "VeriErisimKatmani\\Yorumlar.cs",
@@ -523,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "YoneticiEkle.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\YoneticiEkle.aspx.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\YoneticiEkle.aspx.cs",
@@ -535,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "YoneticiEkle.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\YoneticiEkle.aspx",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\YoneticiEkle.aspx",
@@ -547,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "KullaniciListele.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KullaniciListele.aspx.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KullaniciListele.aspx.cs",
@@ -559,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "KullaniciListele.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KullaniciListele.aspx.designer.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KullaniciListele.aspx.designer.cs",
@@ -571,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "MakaleIcerik.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MakaleIcerik.aspx.designer.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\MakaleIcerik.aspx.designer.cs",
@@ -583,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "UyeOl.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeOl.aspx",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\UyeOl.aspx",
@@ -595,19 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Admin.Master",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\Admin.Master",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\Admin.Master",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\Admin.Master",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\Admin.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-29T19:00:08.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Admin.Master.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\Admin.Master.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\Admin.Master.cs",
@@ -619,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "UyeOl.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeOl.aspx.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\UyeOl.aspx.cs",
@@ -631,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "MasterPage.Master.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\MasterPage.Master.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\MasterPage.Master.cs",
@@ -643,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "BaglantiYollari.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\VeriErisimKatmani\\BaglantiYollari.cs",
               "RelativeDocumentMoniker": "VeriErisimKatmani\\BaglantiYollari.cs",
@@ -656,60 +665,49 @@
           ]
         },
         {
-          "DockedWidth": 183,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 180,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "KategoriListele.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx.cs",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx.cs",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T18:59:24.084Z"
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Default.aspx",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\Default.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\Default.aspx",
+              "RelativeToolTip": "oyunuyorumWebApp\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T18:54:29.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 9,
               "Title": "KategoriEkle.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx.cs",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx.cs",
               "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwCAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T18:58:41.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "KategoriDuzenle.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx.cs",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx.cs",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAwDQAAAABAAAA",
+              "DocumentIndex": 14,
+              "Title": "MakaleEkle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx.cs",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx.cs",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T18:58:36.04Z"
+              "WhenOpened": "2024-04-29T18:59:39.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "KategoriEkle.aspx",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-29T18:58:42.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "UyeGiris.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\UyeGiris.aspx",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\UyeGiris.aspx",
@@ -721,7 +719,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 30,
+              "Title": "KategoriEkle.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\KategoriEkle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-29T18:58:42.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "KategoriDuzenle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx.cs",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx.cs",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\KategoriDuzenle.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:58:36.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "KategoriListele.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx.cs",
+              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx.cs",
+              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T18:59:24.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "KategoriListele.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\KategoriListele.aspx",
@@ -733,20 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MakaleEkle.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx.cs",
-              "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx.cs",
-              "RelativeToolTip": "oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T18:59:39.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "MakaleEkle.aspx",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\oyunuyorumWebApp\\oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx",
               "RelativeDocumentMoniker": "oyunuyorumWebApp\\AdminPanel\\MakaleEkle.aspx",
